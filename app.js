@@ -20,3 +20,5 @@ if (process.env.NODE_ENV == "production") {
 }
 
 module.exports = app;
+
+//tales folder is react client

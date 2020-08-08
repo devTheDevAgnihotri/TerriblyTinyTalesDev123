@@ -99,3 +99,5 @@ function Tales() {
             }
             
             export default  Tales;
+            
+//tales folder is react client

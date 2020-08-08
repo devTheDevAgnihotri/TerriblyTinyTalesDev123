@@ -4,6 +4,8 @@
  * Module dependencies.
  */
 
+ //bin
+ 
 var app = require('../app');
 var debug = require('debug')('talesapi:server');
 var http = require('http');

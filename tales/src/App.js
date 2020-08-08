@@ -14,3 +14,5 @@ export const App = () => {
   )
 }
 export default App
+
+//tales folder is react client
